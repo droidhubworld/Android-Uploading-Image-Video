@@ -9,7 +9,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/> 
     
-## Stap 2 : We need to and these line on bulid.gradle file
+## Stap 2 : We need to and these line on build.gradle file
 
   packagingOptions {
         exclude 'META-INF/DEPENDENCIES'
